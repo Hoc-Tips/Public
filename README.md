@@ -1,2 +1,2 @@
 # Public
-Hoc.Tips Public
+Hoc.Tips Public https://hoc.tips/
